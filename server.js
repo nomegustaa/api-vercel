@@ -1,6 +1,6 @@
 import jsonServer from 'json-server';
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
 
 const server = jsonServer.create();
 const db = JSON.parse(fs.readFileSync(path.join('db.json')));
