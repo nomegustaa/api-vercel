@@ -1,34 +1,52 @@
 {
-  "produtos": [
+  "transactions": [
     {
-      "nome": "Óculos de sol",
-      "preco": "120,00",
-      "id": 1
+      "id": 1,
+      "describe": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 15000,
+      "createdAt": "2024-05-30T14:45:12.591Z"
     },
     {
-      "nome": "Calça",
-      "preco": "60,00",
-      "id": 2
+      "id": 2,
+      "describe": "Hotdog",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-05-10T14:45:12.591Z"
     },
     {
-      "nome": "Boné adidas",
-      "preco": "85,00",
-      "id": 3
+      "id": 3,
+      "describe": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2024-06-10T14:45:12.591Z"
     },
     {
-      "nome": "Relógio",
-      "preco": "350,00",
+      "category": "Educação",
+      "describe": "Desevolvimento de app",
+      "price": 18000,
+      "type": "income",
+      "createdAt": "2024-05-30T18:20:42.978Z",
       "id": 4
     },
     {
-      "nome": "Jaqueta",
-      "preco": "90,00",
+      "category": "Alimentação",
+      "describe": "Pastel",
+      "price": 8,
+      "type": "outcome",
+      "createdAt": "2024-05-30T18:33:01.441Z",
       "id": 5
     },
     {
-      "nome": "Óculos de grau",
-      "preco": "120,00",
-      "id": 8
+      "category": "Produto",
+      "describe": "Copo",
+      "price": 80,
+      "type": "outcome",
+      "createdAt": "2024-05-30T21:22:18.722Z",
+      "id": 6
     }
   ]
 }
