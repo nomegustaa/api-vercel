@@ -1,0 +1,34 @@
+{
+  "produtos": [
+    {
+      "nome": "Óculos de sol",
+      "preco": "120,00",
+      "id": 1
+    },
+    {
+      "nome": "Calça",
+      "preco": "60,00",
+      "id": 2
+    },
+    {
+      "nome": "Boné adidas",
+      "preco": "85,00",
+      "id": 3
+    },
+    {
+      "nome": "Relógio",
+      "preco": "350,00",
+      "id": 4
+    },
+    {
+      "nome": "Jaqueta",
+      "preco": "90,00",
+      "id": 5
+    },
+    {
+      "nome": "Óculos de grau",
+      "preco": "120,00",
+      "id": 8
+    }
+  ]
+}
